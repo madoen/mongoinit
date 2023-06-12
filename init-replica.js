@@ -4,11 +4,11 @@ config = {
 "members" : [
   {
     "_id" : 0,
-    "host" : "mongo1:27017"
+    "host" : "mongo:giA0CzmQ8PeF26jdquFO@containers-us-west-10.railway.app:6255"
   },
   {
     "_id" : 1,
-    "host" : "mongo2:27017"
+    "host" : "mongo:kTzJoWPUv3BfIr9MIkO5@containers-us-west-84.railway.app:7986"
   },
 ]
 };
