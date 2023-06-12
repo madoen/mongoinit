@@ -1,4 +1,4 @@
-db = (new Mongo("localhost:27017")).getDB("appsmith");
+db = (new Mongo("containers-us-west-10.railway.app")).getDB("appsmith");
 config = {
 "_id" : "replicaSet",
 "members" : [
